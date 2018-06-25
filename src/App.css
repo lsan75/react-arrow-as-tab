@@ -1,0 +1,9 @@
+.line {
+  background: #eee;
+  padding: 1rem;
+  border-bottom: 1px solid white;
+}
+.line:focus {
+  background: #ccc;
+  outline: none;
+}
